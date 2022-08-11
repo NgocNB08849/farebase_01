@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "student-app-958c9": {
+      "hosting": {
+        "firebase_01": [
+          "student-app-958c9"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "student-app-958c9"
+  }
+}
